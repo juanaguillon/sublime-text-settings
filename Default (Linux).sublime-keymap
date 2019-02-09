@@ -1,0 +1,153 @@
+[
+  {
+    "args": {
+      "browser": "",
+      "paths": [],
+      "type": "testing"
+    },
+    "command": "side_bar_open_in_browser",
+    "keys": [
+      "f12"
+    ]
+  },
+  {
+    "args": {
+      "browser": "",
+      "paths": [],
+      "type": "production"
+    },
+    "command": "side_bar_open_in_browser",
+    "keys": [
+      "alt+f12"
+    ]
+  },
+  {
+    "command": "side_bar_new_file2",
+    "keys": [
+      "ctrl+t"
+    ]
+  },
+  {
+    "command": "side_bar_rename",
+    "keys": [
+      "f2"
+    ]
+  },
+  {
+    "command": "toggle_side_bar",
+    "keys": [
+      "ctrl+alt+a"
+    ]
+  },
+  {
+    "command": "next_view_in_stack",
+    "keys": [
+      "ctrl+pagedown"
+    ]
+  },
+  {
+    "command": "prev_view_in_stack",
+    "keys": [
+      "ctrl+pageup"
+    ]
+  },
+  {
+    "command": "next_view",
+    "keys": [
+      "ctrl+shift+tab"
+    ]
+  },
+  {
+    "command": "prev_view",
+    "keys": [
+      "ctrl+tab"
+    ]
+  },
+  {
+    "args": {"base_file": "${packages}/Default/Preferences.sublime-settings", "default": "// Settings in here override those in \"Default/Preferences.sublime-settings\",\n// and are overridden in turn by syntax-specific settings.\n{\n\t$0\n}\n"},
+    "command": "edit_settings",
+    "keys": [
+      "ctrl+,"
+    ]
+  },
+  {
+    "args": {"base_file": "${packages}/Default/Default ($platform).sublime-keymap", "default": "[\n\t$0\n]\n"},
+    "command": "edit_settings",
+    "keys": [
+      "ctrl+k","ctrl+s"
+    ]
+  },
+  {
+    "command": "show_scope_name",
+    "keys": [
+      "shift+alt+p"
+    ]
+  },
+  {
+    "args": {
+      "file": "config/Python/Main.sublime-menu",
+      "id": "repl_python_run"
+    },
+    "command": "run_existing_window_command",
+    "keys": [
+      "ctrl+alt+enter"
+    ]
+  },
+  {
+    "command": "toggle_status_bar",
+    "keys": [
+      "shift+alt+x"
+    ]
+  },
+  {
+    "args": {
+      "panel": "console",
+      "toggle": true
+    },
+    "command": "show_panel",
+    "keys": [
+      "ctrl+ñ"
+    ]
+  },
+  {
+    "args": {
+      "panel": "output.exec",
+      "toggle": true
+    },
+    "command": "show_panel",
+    "keys": [
+      "ctrl+shift+alt+enter"
+    ]
+  },
+  {
+    "command": "build",
+    "keys": [
+      "ctrl+alt+enter"
+    ]
+  },
+  {
+    "command": "prompt_select_workspace",
+    "keys": [
+      "ctrl+k",
+      "ctrl+o"
+    ]
+  },
+  {
+    "command":"diff_changes",
+    "keys":[
+      "alt+shift+s"
+    ]
+  },
+  {
+    "command":"color_highlighter_pick_color",
+    "keys":[
+      "alt+shift+c"
+    ]
+  },
+  { "keys": ["ctrl+}"], "command": "toggle_comment", "args": { "block": false } },
+  { "keys": ["ctrl+shift+}"], "command": "toggle_comment", "args": { "block": true } },
+  {
+        "keys": ["shift+alt+k","shift+alt+o"],
+        "command": "project_manager", "args": {"action": "switch"}
+    },
+]

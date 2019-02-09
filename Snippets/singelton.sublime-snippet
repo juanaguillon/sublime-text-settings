@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+
+/**
+ * @since $1
+ * Instancia de clase
+ */
+public static function instance(){
+	if ( self::\$instance == null ){
+		self::\$instance = new self();
+	}
+
+	return self::\$instance;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>singleton</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

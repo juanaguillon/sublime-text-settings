@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+echo '<script>alert("'. ${1:hande_script}  . " => " . ${2:hande_script} . '")</script>';	
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>script_php</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.php</scope>
+</snippet>

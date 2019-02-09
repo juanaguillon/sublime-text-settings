@@ -1,0 +1,583 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"print",
+				"printf〔function〕"
+			],
+			[
+				"the_comments",
+				"the_comments_navigation\tWP Function"
+			],
+			[
+				"get_comments_",
+				"get_comments_number\tWP Function"
+			],
+			[
+				"has_",
+				"has_tag"
+			],
+			[
+				"have_",
+				"have_posts\tWP Function"
+			],
+			[
+				"edit_post",
+				"edit_posts\tWP Capability"
+			],
+			[
+				"the",
+				"the_title_attribute"
+			],
+			[
+				"th",
+				"the_title_attribute"
+			],
+			[
+				"edit_",
+				"edit_post_link"
+			],
+			[
+				"current_",
+				"current_user_can\tWP Function"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"the_title",
+				"the_title_attribute\tWP Function"
+			],
+			[
+				"the_post",
+				"the_post_thumbnail\tWP Function"
+			],
+			[
+				"tele",
+				"telepathe_support_theme"
+			],
+			[
+				"m",
+				"mock-heroes\tscript"
+			],
+			[
+				"imp",
+				"implements\tkeyword"
+			],
+			[
+				"list",
+				"listings"
+			],
+			[
+				"re",
+				"reproducer"
+			],
+			[
+				"err",
+				"errWidgetNotFound"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"con",
+				"containersConfig〔variable〕"
+			],
+			[
+				"config",
+				"configCont〔variable〕"
+			],
+			[
+				"conta",
+				"containers"
+			],
+			[
+				"labe",
+				"label3〔variable〕"
+			],
+			[
+				"paned",
+				"paned1〔variable〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"proj",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"check",
+				"Git: Checkout Current File"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"c",
+				"Git: Commit"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File (Ignore Whitespace)"
+			],
+			[
+				"git change",
+				"Git: No Assume Unchanged"
+			],
+			[
+				"git chan",
+				"Git: Assume Unchanged"
+			],
+			[
+				"git cha",
+				"Git: Change Branch"
+			],
+			[
+				"chang",
+				"Git: Stash Changes"
+			],
+			[
+				"mana",
+				"Project Manager: Edit Project"
+			],
+			[
+				"project",
+				"Project Manager: Open Project"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"extrac",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"che",
+				"Git: Checkout Current File"
+			],
+			[
+				"pu",
+				"Git: Push"
+			],
+			[
+				"termina",
+				"Preferences: Terminal View: Keybindings"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"ch",
+				"Git: Checkout Current File"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"cehc",
+				"Git: Checkout Current File"
+			],
+			[
+				"git",
+				"Set Syntax: Git Config"
+			],
+			[
+				"snippet",
+				"Snippet: Google AJAX Libraries: AngularJS"
+			],
+			[
+				"gitchek",
+				"Git: Checkout Current File"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"change",
+				"Git: Stash Changes"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"ter",
+				"Terminal: Open in project folder"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"Key Bindings",
+				"Preferences: Key Bindings"
+			],
+			[
+				"Settings",
+				"Preferences: Settings"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"map",
+				"View: Toggle Minimap"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"line",
+				"Permute Lines: Shuffle"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 207.0,
+		"history":
+		[
+			"import tkinter as tk",
+			"print('Hello bitches')",
+			"import Tkinter as tk",
+			"import tkinter as tk",
+			"type( tk.Label())",
+			"type('string')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/juanaguillon/Documents/ony",
+		"/home/juanaguillon/Documents/ony/customizer"
+	],
+	"file_history":
+	[
+		"/home/juanaguillon/Documents/ony/customizer/customizer.php",
+		"/home/juanaguillon/Documents/ony/customizer/controls.php",
+		"/home/juanaguillon/Documents/ony/customizer/settings.php",
+		"/home/juanaguillon/Documents/ony/functions.php",
+		"/home/juanaguillon/Documents/ony/header.php",
+		"/home/juanaguillon/.themes/Shell-Uranus/gnome-shell/gnome-shell.css",
+		"/home/juanaguillon/Documents/ony/page.php",
+		"/home/juanaguillon/Documents/ony/404.php",
+		"/home/juanaguillon/Documents/ony/search.php",
+		"/home/juanaguillon/Documents/ony/archive.php",
+		"/home/juanaguillon/Documents/ony/languages/es_ES.po",
+		"/home/juanaguillon/.config/sublime-text-3/Packages/User/Projects/ony.sublime-project",
+		"/var/www/html/wordpress/wp-content/themes/ony/page.php",
+		"/home/juanaguillon/Documents/telepathe-theme/page.php",
+		"/home/juanaguillon/Videos/video",
+		"/var/www/html/wordpress/wp-content/themes/twentyfifteen/content-page.php",
+		"/var/www/html/wordpress/wp-content/themes/twentyfifteen/inc/template-tags.php",
+		"/var/www/html/wordpress/wp-content/themes/twentyfifteen/page.php",
+		"/home/juanaguillon/.config/sublime-text-3/Packages/Theme - Default/adaptive/Adaptive.sublime-theme",
+		"/home/juanaguillon/Documents/telepathe-theme/single.php",
+		"/home/juanaguillon/Documents/telepathe-theme/comments.php",
+		"/home/juanaguillon/Documents/telepathe-theme/content.php",
+		"/home/juanaguillon/Documents/telepathe-theme/header.php",
+		"/home/juanaguillon/Documents/telepathe-theme/functions.php",
+		"/home/juanaguillon/.config/sublime-text-3/Packages/User/ephp.sublime-snippet",
+		"/etc/php/7.2/apache2/php.ini",
+		"/etc/php/7.2/cli/php.ini",
+		"/home/juanaguillon/Documents/telepathe-theme/style.css",
+		"/home/juanaguillon/.config/sublime-text-3/Packages/User/Git.sublime-settings",
+		"/home/juanaguillon/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
+		"/home/juanaguillon/.ssh/id_rsa",
+		"/home/juanaguillon/Documents/telepathe-theme/index.php",
+		"/home/juanaguillon/Desktop/Ony-Wordpress-Theme-master/inc/admin-menu.php",
+		"/home/juanaguillon/Desktop/Ony-Wordpress-Theme-master/inc/function-menus.php",
+		"/home/juanaguillon/Desktop/Ony-Wordpress-Theme-master/archive.php",
+		"/home/juanaguillon/Desktop/Ony-Wordpress-Theme-master/comments.php",
+		"/home/juanaguillon/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+		"/home/juanaguillon/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+		"/home/juanaguillon/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+		"/home/juanaguillon/.config/sublime-text-3/Packages/User/Terminal (Linux).sublime-settings",
+		"/home/juanaguillon/Documentos/Projects/Angular/HeroTv/heroes/src/app/heroes/heroes.component.html",
+		"/home/juanaguillon/Documentos/Projects/Angular/HeroTv/heroes/src/app/heroes/heroes.component.ts",
+		"/home/juanaguillon/Documentos/Projects/Angular/quickstart/package.json",
+		"/home/juanaguillon/Documentos/Projects/Angular/quickstart/LICENSE",
+		"/home/juanaguillon/Dropbox/Cursos/NodeJs/index.js",
+		"/home/juanaguillon/.config/sublime-text-3/Packages/User/MyColorsScheme/City-Lights.tmTheme",
+		"/home/juanaguillon/Dropbox/Cursos/python/music/widgets.py",
+		"/home/juanaguillon/.config/sublime-text-3/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/home/juanaguillon/Dropbox/Cursos/python/pruebas/framesAndPanels.py",
+		"/home/juanaguillon/Dropbox/Cursos/python/music/music.py",
+		"/home/juanaguillon/Dropbox/Cursos/python/music/Wg",
+		"/home/juanaguillon/Escritorio/fpleng.py",
+		"/home/juanaguillon/Dropbox/Cursos/python/pruebas/panedWindow.py",
+		"/home/juanaguillon/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/juanaguillon/.config/sublime-text-3/Packages/User/Default (Windows).sublime-keymap",
+		"/home/juanaguillon/.config/sublime-text-3/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 120.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"colors",
+			"section",
+			"$cc",
+			"primary",
+			"nav",
+			"wp_link_pages",
+			"font",
+			"Categorias",
+			"category",
+			"cathegory",
+			"h2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 151.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python3.sublime-build",
+	"project": "ony.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

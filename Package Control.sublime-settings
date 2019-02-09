@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"TerminalView"
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Emmet",
+		"FileIcons",
+		"Git",
+		"GitGutter",
+		"HTML5",
+		"KeybindingHelper",
+		"LiveReload",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP Syntax Checker",
+		"PHPSnippets",
+		"ProjectManager",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Terminal",
+		"TerminalView",
+		"TypeScript",
+		"WordPress Completions"
+	],
+	"repositories":
+	[
+	]
+}

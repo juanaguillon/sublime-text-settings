@@ -1,0 +1,37 @@
+{
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/User/MyColorsScheme/One Dark.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules"
+	],
+	"font_face": "Fira Code",
+	"font_size": 12,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"TerminalView",
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"material_theme_accent_red": true,
+	"material_theme_bold_tab": true,
+	"material_theme_bright_scrollbars": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_titlebar": true,
+	"overlay_scroll_bars": "enabled",
+	"predawn_tabs_medium": true,
+	"show_encoding": true,
+	"tab_size": 2,
+	"theme": "Adaptive.sublime-theme",
+	"word_wrap": true
+}

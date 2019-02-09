@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+for( key in ${1:data}){
+	if ( ${1:pages}.hasOwnProperty( key ) ){
+		for ( ${2:two_key} in ${1:pages}[key] ){
+			if ( ${1:pages}[key].hasOwnProperty( ${2:two_key} ) ){
+				console.log( ${2:two_key} + ' -> ' + ${1:pages}[key][${2:two_key}]);
+			}
+		}
+	}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>for_in_multi</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>
