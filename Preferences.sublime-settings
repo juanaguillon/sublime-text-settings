@@ -1,6 +1,6 @@
 {
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/MyColorsScheme/One Dark.tmTheme",
+	"color_scheme": "Packages/Theme - One Dark/One Dark.tmTheme",
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -32,6 +32,6 @@
 	"predawn_tabs_medium": true,
 	"show_encoding": true,
 	"tab_size": 2,
-	"theme": "Adaptive.sublime-theme",
+	"theme": "One Dark.sublime-theme",
 	"word_wrap": true
 }
